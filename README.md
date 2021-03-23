@@ -1,14 +1,14 @@
-#Description
+# Description
 The assignment was to duplicate the eye.
 
-#Instalation
+# Instalation
 Open the page on a browser.
 
-#Usage
+# Usage
 Move the mouse around and those eye balls will be following.
 
-#Support
+# Support
 Contact Linkdin GraziPeregrino
 
-#Roadmap
+# Roadmap
 Licensed by MIT.
